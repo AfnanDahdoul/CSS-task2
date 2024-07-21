@@ -1,0 +1,14 @@
+.team{
+    background-color: darkgray;
+    color: darkred;
+    text-align: center;
+}
+.person{
+    float: left;
+    text-align: center;
+    width: 33%;
+    
+}
+.clearleft{
+    clear: left;
+}
